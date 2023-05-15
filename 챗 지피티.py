@@ -14,3 +14,4 @@ while True:
     messages.append({"role": "assistant", "content": f"{assistant_content}"})
 
     print(f"GPT : {assistant_content}")
+    print()
